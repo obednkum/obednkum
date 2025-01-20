@@ -8,7 +8,7 @@ I am a an IT professional with over 4 years of experience with the US Army in de
 ## Objective
 
 
-My journey in Cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
+My journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 
 ## Skills
 
