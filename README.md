@@ -54,6 +54,10 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 <img src="https://img.shields.io/badge/-CASP%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CISSP-FF0000?&style=for-the-badge&logo=ISC2&logoColor=white" />
 
+[CompTIA Advanced Security Practitioner (CASP+) ce certificate.pdf](https://github.com/user-attachments/files/18482237/CompTIA.Advanced.Security.Practitioner.CASP%2B.ce.certificate.pdf)
+[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/18482251/CompTIA.Security%2B.ce.certificate.pdf)
+[CompTIA CySA+ ce certificate-2.pdf](https://github.com/user-attachments/files/18482253/CompTIA.CySA%2B.ce.certificate-2.pdf)
+
 </div>
 
 ## Projects
