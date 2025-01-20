@@ -17,7 +17,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Vulnerability Scan          | <a href="https://github.com/obednkum/Vulnerability-Scan/blob/main/README%20(1).md">Detection Lab</a>|
 | System Security Evaluationn | <a href="https://github.com/obednkum/System-Security-Evaluation/blob/main/README%20(1).md">Security Evaluation Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://github.com/obednkum/Incident-Response-Planning/blob/main/README%20(1).md">Incident Response Plan</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -34,15 +34,15 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 
 ### Endpoint
 <div>
-    
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Microsoft%20Endpoint%20Detection-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 
 </div>
 
 ### SIEM
 <div>
 
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic%20Defend-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 
     
 </div>
@@ -64,3 +64,4 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 ## Projects
 - <a href="https://github.com/obednkum/Vulnerability-Scan/blob/main/README%20(1).md">Detection Lab</a>
 - <a href="https://github.com/obednkum/System-Security-Evaluation/blob/main/README%20(1).md"> Securiuty Evaluation Lab</a>
+- <a href="https://github.com/obednkum/Incident-Response-Planning/blob/main/README%20(1).md">Incident Response Plan</a>
