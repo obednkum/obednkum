@@ -17,7 +17,6 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Vulnerability Scan          | <a href="https://github.com/obednkum/Vulnerability-Scan/blob/main/README%20(1).md">Detection Lab</a>|
 | System Security Evaluationn | <a href="https://github.com/obednkum/System-Security-Evaluation/blob/main/README%20(1).md">Security Evaluation Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -44,6 +43,8 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 <div>
 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+
+    
 </div>
 
 ## Certifications
