@@ -15,7 +15,7 @@ My journey in Cybersecurity has led me to develop a passion for cybersecurity, a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Vulnerability Scan          | <a href="https://github.com/obednkum/Vulnerability-Scan/tree/main">Detection Lab</a>|
+| SIEM Implementation and Vulnerability Scan          | <a href="https://github.com/obednkum/Vulnerability-Scan/blob/main/README%20(1).md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -56,5 +56,5 @@ My journey in Cybersecurity has led me to develop a passion for cybersecurity, a
 </div>
 
 ## Projects
-- <a href="https://github.com/obednkum/Vulnerability-Scan/tree/main">Detection Lab</a>
+- <a href="https://github.com/obednkum/Vulnerability-Scan/blob/main/README%20(1).md">Detection Lab</a>
 - SOC Automation Project
