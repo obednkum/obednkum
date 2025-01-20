@@ -1,12 +1,12 @@
 # Hello, I'm Obed Nkum
 <a href="https://linkedin.com/obed-nkum"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction ]
+
 
 I am a an IT professional with over 4 years of experience with the US Army in developing, implementing, and managing Information systems. A proven leader who is eager to contribbute to team success through hard work, attention to detail and critical organization skills.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in Cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 
